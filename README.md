@@ -7,3 +7,7 @@ Deze workshop is gemaakt door [John](http://github.com/jchn) voor [CoderDojo Rot
 De opdrachten zijn te vinden in `tekenen_opdracht` en `animeren_opdracht`. Dit zijn de onvolledige bestanden voorzien van boilerplate code. De uitgewerkte versies zijn te vinden in `tekenen_uitgewerkt` en `animeren_uitgewerkt`
 
 De presentatie en het bijbehorende programma zijn te vinden in de root folder van de repository
+
+**Download**
+
+[Download de workshop](https://github.com/CoderDojoRotterdam/workshop_canvas/releases/tag/1.0)
